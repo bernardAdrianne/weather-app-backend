@@ -1,0 +1,28 @@
+# Node.js dependencies
+/node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE / editor configs
+.vscode/
+.idea/
+.DS_Store
+
+# Build output
+dist/
+build/
